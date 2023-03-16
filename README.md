@@ -6,7 +6,7 @@ The aim of the project was to create an app used to tasks management. Tasks data
 
 ## Features
 1. Adding new tasks
-2. For each tasks it is possible to: 
+2. For each task it is possible to: 
     - start the countdown
     - end the countdown (the duration of the task is saved)
     - finish the task
