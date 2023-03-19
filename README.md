@@ -45,7 +45,7 @@ json-server --watch ./db/data.json --port 3005
 ````
 http://localhost:8080
 ````
-* Databse is available at:
+* Database is available at:
 ````
 http://localhost:3005/data
 ````
